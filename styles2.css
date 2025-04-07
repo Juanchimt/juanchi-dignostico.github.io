@@ -1,0 +1,130 @@
+body{
+    background-image: url(imagenes/perfumes/fondo\ .jpg);
+    background-size: initial;
+}
+
+
+.navbar{
+    background-color: aliceblue;
+    position: sticky;
+    width: 100%;
+}
+
+.Lattafa-card{
+    height: 30%;
+    width: 29%;
+    background-color: aliceblue;
+    margin-left: 2.5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 2.5%;
+    display: inline-block;
+    padding: 2%;
+}
+
+.pm-card{
+    height: 30%;
+    width: 29%;
+    background-color: aliceblue;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 2.5%;
+    display: inline-block;
+    padding: 2%;
+}
+
+.ourforglory-card{
+    height: 30%;
+    width: 29%;
+    background-color: aliceblue;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 2.5%;
+    display: inline-block;
+    padding: 2%;
+}
+
+.card-img{
+    width: 20%;
+    
+}
+
+#modelo{
+    width: 45%;
+    height: 0 auto;
+    margin-left: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    
+}
+
+.carousel-caption{
+    background-color: aliceblue;
+
+
+}
+
+
+.columnas{
+    background-color: beige;
+    padding: 2%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+
+}
+
+.columnas1{
+    background-color: beige;
+    padding: 2%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.amberoud-card{
+    height: 30%;
+    width: 29%;
+    background-color: aliceblue;
+    margin-left: 2.5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 2.5%;
+    display: inline-block;
+    padding: 2%;
+}
+
+.asad-card{
+    height: 30%;
+    width: 29%;
+    background-color: aliceblue;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 2.5%;
+    display: inline-block;
+    padding: 2%;
+}
+
+.clubdenuit-card{
+    height: 30%;
+    width: 29%;
+    background-color: aliceblue;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 2.5%;
+    display: inline-block;
+    padding: 2%;
+}
+
+
+
+.footer{
+    padding: 1.5%;
+    background-color: black;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+
+.footer-text{
+    font-family: 'Times New Roman', Times, serif;
+}
