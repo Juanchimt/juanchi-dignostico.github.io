@@ -1,0 +1,9 @@
+.body{
+    background-color: dimgray;
+}
+
+.navbar{
+    background-color: aliceblue;
+    position: sticky;
+    width: 100%;
+}
